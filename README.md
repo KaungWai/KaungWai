@@ -1,3 +1,2 @@
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1655223974451-4c5dae0f0103?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80" />
-</div>
+## 🏆 Certifications
+[<img src="https://images.credly.com/size/110x110/images/3c44b901-a2bd-41e7-8a10-24cba9ddd85d/Training_Badges_Master_Node-ServDev.png" width="100" alt="JSNSD: OpenJS Node.js Services Developer">](https://www.credly.com/badges/4ef308e7-0185-4a57-8f21-1561f2cd28b3/public_url)     [<img src="https://images.credly.com/size/110x110/images/8ee45313-716a-4142-a9da-30adaaea0c12/Training_Badges_Master_Node-AppDev.png" width="100" alt="JSNAD: OpenJS Node.js Application Developer">](https://www.credly.com/badges/b91c7284-31d1-459b-bb95-414c28c7e053/public_url)
