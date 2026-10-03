@@ -1,4 +1,11 @@
 # Hi, I'm KAUNG WAI 👋
+I’m a software engineer based in Japan 🇯🇵. I started my career in software development in Myanmar 🇲🇲 in 2017 and have been working in Japan since 2021.
+I enjoy building things, solving problems, and learning how different technologies fit together. These days, I’m particularly interested in **cloud computing, Linux, DevOps, and AI/ML**. I’m currently exploring AWS and modern cloud-native technologies while working on my own projects in my spare time.
+
+## 🎓 Education
+
+I graduated from **Technological University (Hmawbi)**, with a **B.E. in Civil Engineering** in 2017.
+My degree is in civil engineering, but my career took a different direction. I moved into software engineering after graduation and have been learning and growing in the IT field ever since.
 
 ## 🏆 Certifications
 [<img src="https://images.credly.com/size/110x110/images/3c44b901-a2bd-41e7-8a10-24cba9ddd85d/Training_Badges_Master_Node-ServDev.png" width="100" alt="JSNSD: OpenJS Node.js Services Developer">](https://www.credly.com/badges/4ef308e7-0185-4a57-8f21-1561f2cd28b3/public_url) 
