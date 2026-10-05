@@ -1,6 +1,6 @@
 # Hi, I'm KAUNG WAI 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,next,java,node,nest,docker,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,react,next,java,nodejs,nest,docker,aws)](https://skillicons.dev)
 
 I’m a software engineer based in Japan 🇯🇵. I started my career in software development in Myanmar 🇲🇲 in 2017 and have been working in Japan since 2019.
 I enjoy building things, solving problems, and learning how different technologies fit together. These days, I’m particularly interested in **cloud computing, Linux, DevOps, and AI/ML**. I’m currently exploring AWS and modern cloud-native technologies while working on my own projects in my spare time.
